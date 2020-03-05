@@ -1,0 +1,21 @@
+commit a9aca2ca4ab47fe70049ff8e12e0f31320979395
+Author: Ark <arunkarthik29890@gmail.com>
+Date:   Wed May 8 18:22:16 2019 +0530
+
+    Update pom.xml
+
+diff --git a/pom.xml b/pom.xml
+index 3cab62f..7eb2779 100644
+--- a/pom.xml
++++ b/pom.xml
+@@ -8,8 +8,8 @@
+     <artifactId>CucumberBasics</artifactId>
+     <version>1.0-SNAPSHOT</version>
+     <properties>
+-         <maven.compiler.source>1.6</maven.compiler.source>
+-         <maven.compiler.target>1.6</maven.compiler.target>
++         <maven.compiler.source>1.7</maven.compiler.source>
++         <maven.compiler.target>1.7</maven.compiler.target>
+     </properties>
+     <dependencies>
+ 
